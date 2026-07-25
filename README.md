@@ -1,45 +1,120 @@
-# My-Portfolio
-A responsive personal portfolio website showcasing my academic background, technical skills, certifications, and projects.
-# Personal Portfolio Website
+# 🌐 Personal Portfolio Website
 
-## Project Overview
+## 📌 Overview
 
-This is my personal portfolio website developed to showcase my education, technical skills, projects, certifications, internship experience, and contact information. The website serves as a digital portfolio highlighting my academic and technical journey as a BCA student.
+This repository contains the source code for my personal portfolio website, developed to showcase my professional profile, academic journey, technical skills, projects, certifications, and achievements.
 
-## Features
+The portfolio reflects my growth as a Bachelor of Computer Applications (BCA) graduate from REVA University and serves as a central platform where recruiters and professionals can learn more about my skills, projects, and experience.
 
-* Responsive Design
-* About Me Section
-* Education Details
-* Technical Skills
-* Project Showcase
-* Certifications
-* Internship Experience
-* Resume Download
-* Contact Information
-* Social Media Links
+---
 
-## Technologies Used
+## ✨ Features
 
-* HTML
-* CSS
-* JavaScript
-* GitHub Pages
+- Responsive and mobile-friendly design
+- Professional landing page
+- About Me section
+- Education timeline
+- Technical Skills
+- Soft Skills
+- Project Showcase
+- Certifications
+- Languages
+- Interests
+- Resume View & Download
+- Contact Section
+- GitHub and LinkedIn integration
+- Smooth navigation with clean user interface
 
-## Live Demo
+---
 
-Portfolio Website:
+## 🚀 Projects Featured
+
+### Derm Assist – AI-Based Skin Disease Prediction System
+
+An AI-powered healthcare web application developed using Python, Flask, HTML, CSS, JavaScript, and SQLite. The application helps users identify possible skin diseases, book appointments, and receive skincare product recommendations through a responsive and user-friendly interface.
+
+### Personal Portfolio Website
+
+A responsive portfolio website designed to present my education, technical skills, projects, certifications, and professional profile in an organized and visually appealing manner.
+
+---
+
+## 🛠 Technologies Used
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### Backend
+- Flask
+
+### Database
+- SQLite
+
+### Tools & Platforms
+- Visual Studio Code
+- GitHub
+- GitHub Pages
+- Netlify (Basic)
+
+---
+
+## 🌍 Live Portfolio
+
+🔗 **Portfolio Website**
+
 https://bavirisettysreechandana220504.github.io/My-Portfolio/
 
-## Project Highlights
+---
 
-* Showcases Derm Assist AI project
-* Professional and mobile-friendly design
-* Easy navigation and user-friendly interface
-* Integrated resume download option
+## 📄 Resume
 
-## Developer
+The latest version of my professional resume is available within the portfolio website.
 
-Bavirisetty Sree Chandana
+---
 
-Final-Year BCA Student, REVA University
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**
+
+REVA University
+
+Final CGPA: **7.93 / 10**
+
+Completed with **Zero Academic Backlogs**
+
+---
+
+## 📜 Certifications
+
+- NPTEL – Developing Soft Skills and Personality (IIT Kanpur)
+- Web Development Industrial Training
+- Web Development Course Completion
+- Letter of Recommendation
+- Python Programming Skill Development Program
+- Adobe Illustration Workshop
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Bavirisettysreechandana220504
+- LinkedIn: *(Add your LinkedIn URL)*
+- Portfolio: https://bavirisettysreechandana220504.github.io/My-Portfolio/
+
+---
+
+## 👩‍💻 Developer
+
+**Bavirisetty Sree Chandana**
+
+Bachelor of Computer Applications (BCA) Graduate
+
+REVA University
+
+Rajampet, Andhra Pradesh, India
+
+---
+
+### ⭐ If you like this project, consider giving it a star.
